@@ -1,2 +1,2 @@
 # capstone-project
-made a webite of food delevering 
+food delivery website
